@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Project-specific files
+data/
+lfads_input/
+
+config.yaml
+*autolfads_submission.h5
+setup.sh
